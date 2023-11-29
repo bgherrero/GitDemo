@@ -26,7 +26,9 @@ class MainActivity : ComponentActivity() {
                 }
             }
         }
+        Log.d("TAG", "esto es una prueba")
     }
+
 }
 
 @Composable
