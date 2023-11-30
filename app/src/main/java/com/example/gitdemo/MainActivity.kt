@@ -26,7 +26,7 @@ class MainActivity : ComponentActivity() {
                 }
             }
         }
-        Log.d("TAG", "TEST 1")
+        Log.d("TAG", "TEST 2")
     }
 }
 
